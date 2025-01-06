@@ -100,7 +100,7 @@ modern discipline of architecture. Idealism is now commonly associated
 with the Prussian thinkers Immanuel Kant's *Critiques* and G.W.F.
 Hegel's philosophy of history, yet it really was a web of intellectual
 developments in the 18^th^ century. An Idealist philosophy of art
-history was shaped more or less independently from classical philology
+history was shaped more or less independently after classical philology
 and antiquarianism [@momigliano:1990classical], through the Italian
 philosopher Giambattista Vico [@ciardo:1947quattro]. A third, better
 known strand, ran from a circle of Catholic German-speaking artists and
@@ -155,7 +155,7 @@ historiography claimed the sobriquet "critical".
 
 Comparative textbooks such as James Fergusson's early *Illustrated
 Handbook of Architecture*, Étienne Barberot's *Histoire des styles*,
-Auguste Choisy's *Histoire de l'architecture*, or Fletchers' *History of
+Auguste Choisy's *Histoire de l'architecture*, or Fletcher's *History of
 Architecture on the Comparative Method* portrayed architectural
 history as a collection of culture--epochs through time and space, each
 signaled by a characteristic style [@barberot:1891histoire, v. 1, p. v]. These
@@ -229,7 +229,7 @@ On the one hand, like art history, architectural scholarship
 in 19^th^-century Europe sought to make sense of a growing
 body of works unveiled by archaeology and colonialism. Unlike art
 history, on the other hand, the history of architecture could not
-retreat into a narrative of formal autonomy. At the same time as
+retreat into a narrative of formal autonomy. At the same time
 European architects were experimenting with the new genre of history
 writing [@watkin:1980rise], they had to grapple with a growing
 instability in the very nature of the profession
@@ -360,7 +360,7 @@ unstable disciplinary boundaries of architecture
 Contradictory as that operative premise was, it could not have
 contributed to the decline of comparative history were it not for the
 specialization of architectural history scholarship in the postwar
-years. Critical historians such as Tafuri and @banham:1960theory
+years. Critical historians such as Manfredo Tafuri and @banham:1960theory
 shunned the operative interest in reclaiming certain aspects of the past.
 A growing number of dedicated scholars followed suit, especially
 in the Americas.
@@ -415,7 +415,7 @@ of his former doctoral advisees, Virkamāditya Prakāsh, co-authored the
 book together with Francis D. K. Ching, whom Prakāsh had joined as
 faculty member of Washington University.
 
-Jarzombek went on to explain that what spurred his *Global
+Jarzombek went on to explain that what spurred their *Global
 History of Architecture* was an explicit
 rejection of the "globalized" appropriation of architecture as a diverse
 collection of national histories [@jarzombek:2015architecture, 112].
@@ -492,7 +492,7 @@ Table: Parallel between chapter headings in *A Global History of Architecture* a
 |  1900 [CE]{.smallcaps} | Pioneers of modern design              |
 |  1950 [CE]{.smallcaps} | High Modernism and beyond              |
 
-@tafuri:1991introduzione [7] argued that the abuse of architectural
+Tafuri [-@tafuri:1991introduzione, 7] argued that the abuse of architectural
 history in design bred "reckless iconology and anachronism." Conversely,
 *A Global History*'s authors shunned stylistic analysis in
 general, including iconology. Still, they fell into the anachronistic pitfall
@@ -677,7 +677,7 @@ theory was required for the history of architecture they were teaching.
 Argentinian professor Marina Waisman gave an early and influential
 response to this question. The title of her 1990 book *El interior de la
 historia*  was a play on the concept of "intra-history" coined by
-Spanish literary historian Miguel de @unamuno:1902torno and transposed to
+Spanish literary historian @unamuno:1902torno and transposed to
 architecture by Fernando Chueca Goitia
 [@waisman:1993interior, 54; see @chuecagoitia:1981invariantes-castizos].
 The latter meant the history of lesser places and lives, often unnoticed
@@ -892,9 +892,9 @@ The latest editions of Banister Fletcher's textbook have
 attempted to break free from synthesis by shunning the narrative
 unity provided by coherent authorship in favor of isolated chapters
 written by specialists. This is unusual in the textbook genre and found
-more often in *Companions* [@mallgrave:2017companions], although the
-SmartHistory project *Reframing Art History* is another, promising
-example of this approach [@reframing:2022].
+more often in *Companions* [@mallgrave:2017companions], although
+Lauren Kilroy-Ewbank's *Reframing Art History* is another, promising
+example of this approach [@kilroy-ewbank:2022reframing].
 However, critical history of architecture today functions
 in a broad landscape where it interacts with other
 disciplinary fields. The points of contact between these disciplines
